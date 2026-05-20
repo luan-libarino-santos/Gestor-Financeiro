@@ -1,2 +1,2 @@
-# Gestor-Financeiro
+# Gestor Financeiro
 Projeto em Python!
